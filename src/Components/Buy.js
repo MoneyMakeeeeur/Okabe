@@ -68,7 +68,7 @@ export default function Buy() {
           <div className="col-lg-5 ">
             <div className="embeded-page">
               <iframe
-                src="https://app.uniswap.org/#/swap?outputCurrency=0x5f20f15d40f24dae50a72be3b5edddddfb5a5bd0&amp;chain=mainnet&amp;inputCurrency=ETH"
+                src="https://app.uniswap.org/#/swap?chain=mainnet"
                 height="560px"
                 width="100%"
               ></iframe>

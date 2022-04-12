@@ -31,7 +31,7 @@ export default function Tokenomics() {
                   <h6>buy</h6>
                 </div>
                 <div className="col-6">
-                  <h5>12%</h5>
+                  <h5>8%</h5>
                 </div>
               </div>
 
@@ -49,7 +49,7 @@ export default function Tokenomics() {
                   <h6>lp</h6>
                 </div>
                 <div className="col-6">
-                  <h5>4%</h5>
+                  <h5>1%</h5>
                 </div>
               </div>
 
@@ -58,7 +58,7 @@ export default function Tokenomics() {
                   <h6>development</h6>
                 </div>
                 <div className="col-6">
-                  <h5>4%</h5>
+                  <h5>3%</h5>
                 </div>
               </div>
             </div>
@@ -77,7 +77,7 @@ export default function Tokenomics() {
                   <h6>sell</h6>
                 </div>
                 <div className="col-6">
-                  <h5>15%</h5>
+                  <h5>8%</h5>
                 </div>
               </div>
 
@@ -86,7 +86,7 @@ export default function Tokenomics() {
                   <h6>marketing</h6>
                 </div>
                 <div className="col-6">
-                  <h5>6%</h5>
+                  <h5>3%</h5>
                 </div>
               </div>
 
@@ -95,7 +95,7 @@ export default function Tokenomics() {
                   <h6>lp</h6>
                 </div>
                 <div className="col-6">
-                  <h5>4%</h5>
+                  <h5>2%</h5>
                 </div>
               </div>
 
@@ -104,7 +104,7 @@ export default function Tokenomics() {
                   <h6>development</h6>
                 </div>
                 <div className="col-6">
-                  <h5>5%</h5>
+                  <h5>3%</h5>
                 </div>
               </div>
             </div>

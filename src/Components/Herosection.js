@@ -30,7 +30,10 @@ export default function Herosection() {
               />
             </div>
             <div className="hero-left-h6">
-              <a href="">
+              <a
+                target="_blank"
+                href="https://app.uniswap.org/#/swap?chain=mainnet"
+              >
                 <h6>uniswap</h6>
               </a>
             </div>
@@ -69,7 +72,7 @@ export default function Herosection() {
                   alt=""
                 />
               </div>
-              <a href="">
+              <a target="_blank" href="https://t.me/okabeinu">
                 <h5>telegram</h5>
               </a>
             </div>

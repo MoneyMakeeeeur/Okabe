@@ -13,7 +13,7 @@ export default function Roadmap() {
               </div>
               <div className="col-8 col-md-8">
                 <h5>
-                  launch on 29th <br /> 200 holders <br /> 200k mcap <br /> 250
+                  launch on 12.04 <br /> 200 holders <br /> 200k mcap <br /> 250
                   tg members
                 </h5>
               </div>
